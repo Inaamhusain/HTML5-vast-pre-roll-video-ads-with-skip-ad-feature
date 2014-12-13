@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HTML5 vast pre-roll video ads</title>
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="js/vastvideoplugin.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/site.css">
+</head>
+<body bgcolor="#424142">
+ <center>
+ <div>
+	<video id="example_video_1" src="vod/sample2.m4v" width = "640" height="480" controls  
+  ads = '{  "servers": [
+                         {
+                           "apiAddress": "vod/testads1.xml"
+                         }
+                        ],
+            "schedule": [
+                          {
+                            "position": "pre-roll"
+                          }
+                        ]
+        }' 	></video>
+</div>
+<span class="skipBtn">Skip</span>
+</center>
+<script>initAdsFor("example_video_1");</script>
+</body>
+</html>
