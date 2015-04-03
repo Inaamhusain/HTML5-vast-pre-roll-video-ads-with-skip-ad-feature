@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE VAST [
+  <!ATTLIST Ad    id    ID     #IMPLIED>
+	<!ELEMENT MediaFiles (#PCDATA)>
+	<!ELEMENT MediaFile (#PCDATA)>
+	<!ELEMENT URL (#PCDATA)>
+]>
 <VAST version="2.0" >
 <Ad id="pre-roll-0">
 <InLine>
