@@ -19,7 +19,7 @@
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" bitrate="400" type="video/mp4">
-<URL>http://www.ciphertrick.com/demo/htmlvast/vod/sample.mp4</URL>
+<URL>https://media.publit.io/file/Wildlife-M.mp4</URL>
 </MediaFile>
 </MediaFiles>
 </Linear>
@@ -40,7 +40,7 @@
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" bitrate="400" type="video/mp4">
-<URL>http://www.ciphertrick.com/demo/htmlvast/vod/sample.mp4</URL>
+<URL>https://media.publit.io/file/Wildlife-M.mp4</URL>
 </MediaFile>
 </MediaFiles>
 </Linear>
@@ -61,7 +61,7 @@
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" bitrate="400" type="video/mp4">
-<URL>http://www.ciphertrick.com/demo/htmlvast/vod/sample.mp4</URL>
+<URL>https://media.publit.io/file/Wildlife-M.mp4</URL>
 </MediaFile>
 </MediaFiles>
 </Linear>
